@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/atomic-blog-react-project/static/css/main.1f78adec.css",
-    "main.js": "/atomic-blog-react-project/static/js/main.ded3a282.js",
+    "main.js": "/atomic-blog-react-project/static/js/main.b0da5f44.js",
     "index.html": "/atomic-blog-react-project/index.html",
     "main.1f78adec.css.map": "/atomic-blog-react-project/static/css/main.1f78adec.css.map",
-    "main.ded3a282.js.map": "/atomic-blog-react-project/static/js/main.ded3a282.js.map"
+    "main.b0da5f44.js.map": "/atomic-blog-react-project/static/js/main.b0da5f44.js.map"
   },
   "entrypoints": [
     "static/css/main.1f78adec.css",
-    "static/js/main.ded3a282.js"
+    "static/js/main.b0da5f44.js"
   ]
 }
